@@ -1,0 +1,10 @@
+E:\NET Framework\TreeViewApp\TreeViewApp\bin\Debug\TreeViewApp.exe.config
+E:\NET Framework\TreeViewApp\TreeViewApp\bin\Debug\TreeViewApp.exe
+E:\NET Framework\TreeViewApp\TreeViewApp\bin\Debug\TreeViewApp.pdb
+E:\NET Framework\TreeViewApp\TreeViewApp\obj\Debug\TreeViewApp.csproj.AssemblyReference.cache
+E:\NET Framework\TreeViewApp\TreeViewApp\obj\Debug\TreeViewApp.Form1.resources
+E:\NET Framework\TreeViewApp\TreeViewApp\obj\Debug\TreeViewApp.Properties.Resources.resources
+E:\NET Framework\TreeViewApp\TreeViewApp\obj\Debug\TreeViewApp.csproj.GenerateResource.cache
+E:\NET Framework\TreeViewApp\TreeViewApp\obj\Debug\TreeViewApp.csproj.CoreCompileInputs.cache
+E:\NET Framework\TreeViewApp\TreeViewApp\obj\Debug\TreeViewApp.exe
+E:\NET Framework\TreeViewApp\TreeViewApp\obj\Debug\TreeViewApp.pdb
